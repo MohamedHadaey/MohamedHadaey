@@ -1,10 +1,10 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--_sk5cfBS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/xndmxrfhliweofif9jty.png)](https://Mohamed-Hadaey.io)
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--_sk5cfBS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/xndmxrfhliweofif9jty.png)](https://MohamedHadaey.io)
 <h1 align="center">Hi 👋, I'm Mohamed Hadaey</h1>
 <h3 align="center">frontend developer | Angular</h3>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=mohamed-hadaey&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-hadaey" /> </p>
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=MohamedHadaey&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-hadaey" /> </p>
 
 <br>
 
@@ -30,8 +30,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-hadaey-2114051b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-hadaey-2114051b8/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/mohamed.hadaey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohamed.hadaey" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mohamed_ha_ahmed/?fbclid=iwar3gamzdmliydjjhsivzkpalovnqtg6nq55xnlpbhbvchegusdcj4pdvdta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mohamed_ha_ahmed/?fbclid=iwar3gamzdmliydjjhsivzkpalovnqtg6nq55xnlpbhbvchegusdcj4pdvdta" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohamed.hadaey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohamed.hadaey" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mohamed_hadaey/?fbclid=IwAR1n10XXkZ7tRcd9q7DgEcC5o5Cm-M-0HcWMQ8gSr8ki003q__jk_sybuf4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mohamed_ha_ahmed/?fbclid=iwar3gamzdmliydjjhsivzkpalovnqtg6nq55xnlpbhbvchegusdcj4pdvdta" height="30" width="40" /></a>
 </p>
 
 <br>
