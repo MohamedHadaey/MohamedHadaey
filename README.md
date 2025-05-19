@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **web development projects**
 
-- 🌱 I’m currently learning **Angular,backend track**
+- 🌱 I’m currently learning **Angular framework**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://mohamedhadaey.github.io/my-portfolio/)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **devmohamedhadaey@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1z1KwsgMLrhpA7FAGbwqUv-skl_WG7_Rs/view?usp=share_link)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/193HoQ7Zg0D_R3OflsNtcnkMaS9ZTWLps/view?usp=drive_link)
 
 - ⚡ Fun fact **I think we should think twice code once**
 
